@@ -1,0 +1,23 @@
+.blog{
+    width: 400px;
+    margin: 20px auto;
+}
+
+.img{
+    
+    width: 400px;
+    background-size: cover;
+}
+
+.btn1{
+    position: fixed;
+    color: white;
+    background-color: black;
+    height: 10px;
+   
+    border-radius: 20px;
+    bottom: 0;
+    right: 0;   
+    padding: 30px;
+    margin: 20px;
+}

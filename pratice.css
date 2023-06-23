@@ -1,0 +1,9 @@
+.box1{
+    width:800px;
+    border:1px solid black;
+    border-radius: 5px;
+    background-image: url('https://source.unsplash.com/1600x900/?india');
+    background-size: cover;
+    height: 400px;
+}
+
